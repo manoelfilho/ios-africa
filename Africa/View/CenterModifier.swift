@@ -1,7 +1,8 @@
 //
-//  Created by Robert Petras
-//  SwiftUI Masterclass ♥ Better Apps. Less Code.
-//  https://swiftuimasterclass.com
+//  ExternalWebLinkView.swift
+//  Africa
+//
+//  Created by Manoel Filho on 16/04/21.
 //
 
 import SwiftUI

@@ -1,12 +1,14 @@
 //
-//  Created by Robert Petras
-//  SwiftUI Masterclass ♥ Better Apps. Less Code.
-//  https://swiftuimasterclass.com
+//  MainView.swift
+//  Africa
+//
+//  Created by Manoel Filho on 17/04/21.
 //
 
 import SwiftUI
 
 struct CreditsView: View {
+    
   var body: some View {
     VStack {
       Image("compass")
@@ -15,10 +17,10 @@ struct CreditsView: View {
         .frame(width: 128, height: 128)
       
       Text("""
-  Copyright © Robert Petras
-  All right reserved
-  Better Apps ♡ Less Code
-  """)
+            Copyright © Robert Petras
+            All right reserved
+            Better Apps ♡ Less Code
+           """)
         .font(.footnote)
         .multilineTextAlignment(.center)
     } //: VSTACK
