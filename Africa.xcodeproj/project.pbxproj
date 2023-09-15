@@ -427,7 +427,7 @@
 				DEVELOPMENT_TEAM = 56EQ48SVZJ;
 				INFOPLIST_FILE = Stickers/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				PRODUCT_BUNDLE_IDENTIFIER = br.eti.manoelfilho.africa.Africa.Sticker;
+				PRODUCT_BUNDLE_IDENTIFIER = br.eti.manoelfilho.africa.Africa.Stickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -444,7 +444,7 @@
 				DEVELOPMENT_TEAM = 56EQ48SVZJ;
 				INFOPLIST_FILE = Stickers/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				PRODUCT_BUNDLE_IDENTIFIER = br.eti.manoelfilho.africa.Africa.Sticker;
+				PRODUCT_BUNDLE_IDENTIFIER = br.eti.manoelfilho.africa.Africa.Stickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
