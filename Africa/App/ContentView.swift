@@ -24,7 +24,7 @@ struct ContentView: View {
     func gridSwitch() {
         gridLayout = Array(repeating: .init(.flexible()), count: gridLayout.count % 3 + 1)
         gridColumn = gridLayout.count
-        print("Number of columns: \(gridColumn)")
+        //print("Number of columns: \(gridColumn)")
         
         //TOOLBAR IMAGE
         switch gridColumn {

@@ -27,7 +27,6 @@ struct MapView: View {
         //Map(coordinateRegion: $region)
         
         //MARK: - 2 BASIC ADVANCED
-        
         Map(coordinateRegion: $region, annotationItems: locations, annotationContent: { item in
             //A - PIN OLD STYLE (ALWAYS STATIC)
             //MapPin(coordinate: item.location, tint: .accentColor)

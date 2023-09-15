@@ -7,7 +7,7 @@
 		<key>Africa.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Stickers.xcscheme_^#shared#^_</key>
 		<dict>
@@ -17,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>BB821F5A262B3D300088963B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>BBEE607B262786890049FE47</key>
 		<dict>
 			<key>primary</key>

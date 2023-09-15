@@ -20,6 +20,7 @@ struct InsectMapView: View {
     
     //MARK: - Body
     var body: some View {
+        
         Map(coordinateRegion: $region)
             
             .overlay(
